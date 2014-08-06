@@ -14,6 +14,10 @@ How to use
     <!-- plugin css -->
     <link rel="stylesheet" href="css/main.css" />
     
+    <!-- for i.e.  css 
+    <link rel="stylesheet" href="css/main-ie.css" />
+    -->
+    
     <!-- main script -->
     <script src="js/main.js" type="text/javascript"></script>
     
