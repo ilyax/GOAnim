@@ -3,18 +3,9 @@ GOAnim
 
 CSS3 Animation - native javascript  helper file easy to use 
 
-<<<<<<< HEAD
-Demo
-<<<<<<< HEAD
-=======
 #####Demo
->>>>>>> origin/master
-=======
-#####
->>>>>>> parent of a3c496f... Revert "readme update"
 
 http://ilyax.com/goanim
-
 
 #####How to use 
 
