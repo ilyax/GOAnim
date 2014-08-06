@@ -3,12 +3,16 @@ GOAnim
 
 CSS3 Animation - native javascript  helper file easy to use 
 
+<<<<<<< HEAD
 Demo
+=======
+#####Demo
+>>>>>>> origin/master
 
 http://ilyax.com/goanim
 
 
-How to use 
+#####How to use 
 
     <!-- plugin css -->
     <link rel="stylesheet" href="css/main.css" />
