@@ -3,8 +3,7 @@ GOAnim
 
 CSS3 Animation - native javascript  helper file easy to use 
 
-Demo
-#####
+#####Demo
 
 http://ilyax.com/goanim
 
